@@ -184,13 +184,10 @@ const DEFAULT_CONFIG = {
       withDivider: true,
     },
     {
-      
       route:  ROUTE_INSUREE_FAMILIES,
     },
     {
-      
       route:  ROUTE_INSUREE_INSUREES,
-      
     },
   ],
 };
